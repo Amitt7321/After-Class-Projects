@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+<body>
+ <table border="4" bgcolor="sky blue">
+    <tr>
+    <th>Film</th>
+    <th>Male Actor</th>
+    <th>Female Actor</th>
+    </tr>
+    <tr>
+    <td>Tanaji</td>
+    <td>Ajay devgan</td>
+    <td>Kajal devgan</td>
+    </tr>
+</body>
+</html>
