@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Positioning & Opacity</title>
+    <style>
+        div.relative{
+            position: relative;
+            left: 30px;
+            border: 4px solid lightblue;
+        }
+        div.fixed{
+            position: fixed;
+            left: 30px;
+            border: 4px solid lightgreen;
+        }
+        div.absolute{
+            position: absolute;
+            left: 30px;
+            border: 4px solid cyan;
+        }
+        div.static{
+            position: static;
+            left: 30px;
+            border: 4px solid burlywood;
+        }
+    </style>
+</head>
+<body>
+    <h2>Positions</h2>
+    <p>An element widh Position: relative; is Positioned relative to its normal Position:</p>
+    <div class="relative">This div element has Position: relative;</div><br><br>
+    <div class="fixed">This div element has Position: fixed;</div><br><br>
+    <div class="absolute">This div element has Position: absolute;</div><br><br>
+    <div class="static">This div element has Position: static;</div>
+</body>
+</html>
