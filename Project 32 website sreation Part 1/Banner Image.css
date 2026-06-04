@@ -1,0 +1,42 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: burlywood;
+    font-family: "Baloo Tamma 2", cursive;
+}
+
+.m-heading {
+    font-family: "Ronot slab", serif;
+}
+
+.text-white {
+    color: white;
+}
+
+.main-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(textured-brown-background-subtle-gradient-260nw-2668130869.webp );
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.main_row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_row h1 {
+    font-size: 5rem;
+}
+
+.main_row img {
+    width: auto;
+    height: 100vh;
+}
