@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(brown, chocolate, peru, burlywood);
+    font-family: 'Roboto slab', serif;
+}
+
+.Restaurant-Website {
+    background-color: rgba(red, green, blue, alpha);
+    border-radius: 15px;
+    margin-top: 50px;
+}
+
+.m-heading {
+    font-size: 2.5rem;
+    font-weight: 600;
+    padding: 10px 30px;
+    transition: all 0.3 ease;
+}
+
+.btn btn-outline-warming {
+    background-color: lightgreen;
+    transform: scale(1.05);
+}
