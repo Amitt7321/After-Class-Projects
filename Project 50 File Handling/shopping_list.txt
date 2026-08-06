@@ -1,0 +1,8 @@
+Shopping List
+1. Milk
+2. Bread
+3. Eggs
+4. Apples
+5. Rice
+6. Butter
+7. Juice
