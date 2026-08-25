@@ -1,6 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: peru;
+    background-color: lightblue;
 }
 
 #container {
@@ -13,7 +13,7 @@ body {
 #calculator {
     width: 320px;
     height: 520px;
-    background-color: lightgreen;
+    background-color: lightsalmon;
     margin: 0px auto;
     top: 20px;
     position: relative;
@@ -61,7 +61,7 @@ body {
 
 .number,
 .empty {
-    background-color: lightpink;
+    background-color: wheat;
 }
 
 .number,
@@ -79,28 +79,51 @@ body {
 .empty:focus {
     outline: 0;
 }
+button:nth-child(16) {
+    font-size: 20px;
+    background-color: peru;
+}
+
+button:nth-child(12) {
+    font-size: 20px;
+    background-color:khaki;
+}
+
+button:nth-child(8) {
+    font-size: 20px;
+    background-color: darkturquoise;
+}
+
 
 button:nth-child(4) {
     font-size: 20px;
-    background-color: lightyellow;
+    background-color: yellowgreen;
 }
 
-button:nth-child(8) {
+button:nth-child(3) {
     font-size: 20px;
-    background-color: burlywood;
+    background-color: lightgreen;
 }
 
-button:nth-child(8) {
+button:nth-child(2) {
     font-size: 20px;
-    background-color: lemonchiffon;
+    background-color: lightgreen;
 }
-
-button:nth-child(16) {
+button:nth-child(1) {
     font-size: 20px;
-    background-color: orange;
+    background-color:lightgreen ;
 }
 
 button:nth-child(20) {
+    font-size: 20px;
+    background-color: tomato;
+}
+button:nth-child(17) {
+    font-size: 20px;
+    background-color: wheat;
+}
+
+button:nth-child(19) {
     font-size: 20px;
     background-color: wheat;
 }

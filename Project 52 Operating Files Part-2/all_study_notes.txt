@@ -1,0 +1,6 @@
+--- Content from math_notes.txt ---
+Math covers algebra and geometry basics.
+
+--- Content from science_notes.txt ---
+Science covers physics and chemistry concepts.
+
