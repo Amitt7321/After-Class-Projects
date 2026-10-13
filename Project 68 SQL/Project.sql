@@ -10,7 +10,7 @@ INSERT INTO STUDENT (Roll_No, Name, Class, Marks, City) VALUES
 (1, 'Arin sen', '7th', 90, 'West Bengal'), 
 (2, 'Amitt Sharma', '7th', 96, 'Haryana'), 
 (3, 'Atharva Raj Dubey', '7th', 92, 'Uttar Pradesh'), 
-(4, 'Aadarsh Alok Tiwari', '7th', 67, 'Bihar');
+(4, 'Aadarsh Alok Tiwari', '7th',87, 'Bihar');
 
 SELECT Roll_No, Name, Marks, City 
 FROM STUDENT 
