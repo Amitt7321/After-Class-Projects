@@ -4,7 +4,7 @@ name TEXT,
 
 neighborhood TEXT,
 
-cuisine TEXT,
+cuisine TEXT
 
 review REAL,
 
